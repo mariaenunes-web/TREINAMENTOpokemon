@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    gap: 16px;
+    height: 450px;
+}
+.machop,.geodude,.onix{
+    border: 2px solid
+}

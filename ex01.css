@@ -1,0 +1,19 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    gap: 16px;
+}
+
+.pikachu{
+    border: 3px solid rgb(255, 0, 0);
+}
+
+.meowth{
+    border: 3px solid rgba(128, 63, 20, 0.801);
+}
+.psyduck{
+    border: 3px solid yellow;
+}

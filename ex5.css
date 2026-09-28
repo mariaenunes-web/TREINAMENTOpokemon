@@ -1,0 +1,12 @@
+.box {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+    flex-wrap: nowrap;
+    gap: 16px;
+}
+.gengar{
+    align-self: flex-end;
+    margin-top: 100px;
+}
